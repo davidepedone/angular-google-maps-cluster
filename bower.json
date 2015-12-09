@@ -1,0 +1,29 @@
+{
+  "name": "angular-google-maps-cluster",
+  "version": "1.0.0",
+  "authors": [
+    "Davide Pedone <davide.pedone@gmail.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:davidepedone/angular-google-maps-cluster.git"
+  },
+  "description": "AngularJS directive for google maps and marker cluster",
+  "keywords": [
+    "angular",
+    "google maps",
+    "marker",
+    "cluster"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.x"
+  }
+}
