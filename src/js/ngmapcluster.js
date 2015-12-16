@@ -26,7 +26,7 @@
                 var mapOptions = {
                     zoom: 1,
                 };
-                var markerIconUrl = 'http://marker.local/sample/building.png';
+                var markerIconUrl = 'https://raw.githubusercontent.com/davidepedone/angular-google-maps-cluster/master/sample/building.png';
                 mapOptions.mapTypeId = google.maps.MapTypeId.ROADMAP;
                 // # Get place from coords and Set map center
                 mapOptions.center = new google.maps.LatLng(0.1700235000, 20.7319823000);
