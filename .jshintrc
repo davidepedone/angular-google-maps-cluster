@@ -19,6 +19,7 @@
     "_"         : false,
     "module"    : false,
     "require"   : false,
-    "alert"		: false
+    "alert"		: false,
+    "MarkerClusterer" : false
   }
 }
